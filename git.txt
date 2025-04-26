@@ -1,0 +1,6 @@
+we are learning git 
+=
+=
+=
+=
+  working stage (red color)
